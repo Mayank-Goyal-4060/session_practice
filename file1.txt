@@ -1,2 +1,3 @@
 creating first file
 creating for unstagesd
+editing in clone 
